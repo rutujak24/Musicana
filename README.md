@@ -1,2 +1,2 @@
 # Musicana
-Android Music Player
+SDL Android Music Player
